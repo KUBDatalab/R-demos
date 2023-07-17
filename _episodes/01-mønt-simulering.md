@@ -273,7 +273,10 @@ p
 ~~~
 {: .language-r}
 
-<img src="../fig/rmd-01-unnamed-chunk-14-1.png" alt="plot of chunk unnamed-chunk-14" width="612" style="display: block; margin: auto;" />
+<div class="figure" style="text-align: center">
+<img src="../fig/rmd-01-unnamed-chunk-14-1.png" alt="plot of chunk unnamed-chunk-14" width="612" />
+<p class="caption">plot of chunk unnamed-chunk-14</p>
+</div>
 vi kommer stille og roligt tættere på det korrekte resultat,
 jo flere forsøg vi laver. Og vi kan komme arbitrært tæt på,
 så længe vi er parate til at vente.
@@ -366,7 +369,10 @@ data %>%
 ~~~
 {: .language-r}
 
-<img src="../fig/rmd-01-unnamed-chunk-19-1.png" alt="plot of chunk unnamed-chunk-19" width="612" style="display: block; margin: auto;" />
+<div class="figure" style="text-align: center">
+<img src="../fig/rmd-01-unnamed-chunk-19-1.png" alt="plot of chunk unnamed-chunk-19" width="612" />
+<p class="caption">plot of chunk unnamed-chunk-19</p>
+</div>
 
 
 
